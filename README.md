@@ -80,7 +80,7 @@ See our [docs website](http://healthcareai-r.readthedocs.io)
 If you like Jupyter notebooks, check out [step 1](https://github.com/HealthCatalystSLC/documentation/blob/master/notebooks/Example1.ipynb) and [step 2](https://github.com/HealthCatalystSLC/documentation/blob/master/notebooks/Example2.ipynb) in model building with healthcareai.
 
 ## Join the community
-Read the blog and join the slack channel at [healthcare.ai](https://healthcare.ai)
+Read the blog and join the Slack channel at [healthcare.ai](https://healthcare.ai)
 
 ## What's new?
 The CRAN 0.1.12 release features
@@ -100,7 +100,7 @@ library(healthcareai)
 
 - If you're still seeing an error, file an issue on [Stack Overflow](http://stackoverflow.com/) using the healthcare-ai tag. Please provide
   - Details on your environment (OS, database type, R vs Py)
-  - Goals (ie, what are you trying to accomplish)
+  - Goals (i.e. what you are trying to accomplish)
   - Crystal clear steps for reproducing the error
 
 ## Contributing
